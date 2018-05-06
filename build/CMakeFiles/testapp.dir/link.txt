@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/testapp.dir/src/helper.cpp.o CMakeFiles/testapp.dir/src/main.cpp.o  -o testapp -rdynamic 

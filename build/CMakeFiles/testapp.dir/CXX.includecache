@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/helper.hpp
+string
+-
+
+/home/ricardo/Projects/beameio/release-integrations/src/helper.cpp
+helper.hpp
+/home/ricardo/Projects/beameio/release-integrations/src/helper.hpp
+string
+-
+
+/home/ricardo/Projects/beameio/release-integrations/src/main.cpp
+helper.hpp
+/home/ricardo/Projects/beameio/release-integrations/src/helper.hpp
+string
+-
+
