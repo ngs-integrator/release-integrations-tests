@@ -1,3 +1,0 @@
-/home/ricardo/Projects/beameio/release-integrations/build/CMakeFiles/rebuild_cache.dir
-/home/ricardo/Projects/beameio/release-integrations/build/CMakeFiles/edit_cache.dir
-/home/ricardo/Projects/beameio/release-integrations/build/CMakeFiles/testapp.dir
