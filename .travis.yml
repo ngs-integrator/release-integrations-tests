@@ -1,5 +1,7 @@
 dist: trusty
 language: cpp
+services:
+  - docker
 addons:
   apt:
     sources:
